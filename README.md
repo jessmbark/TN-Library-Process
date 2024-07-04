@@ -22,7 +22,7 @@ At one point, I realized that several columns had *eerily similar* names. I got 
 
 I got so confused that I actually called my local library and got the email address for one of the librarians that supplied the data for my branch. She was **the best.** She sent me the complete data for my local branch, which also had some extra column identifiers that were absent in both the national documentation and the state documentation. It's not in this repository because it had her personal identifying information on it, nor did I ask her permission to upload the raw data (or name her here). 
 
-## Wins and Losses
+## Wins & Losses
 I learned *oh-so* much about html and css doing this! Even the things that did not work, like when I tried to make an Illustrator graphic representing the average library and Summer Reading Program events, still taught me things. The more I search on StackOverflow, the more I understand what I read and the less afraid I have become about all of this.
 
 ...But I know in my soul that these visualizations are boring. Pie chart? Bar chart? Please. I wanted to have something fun and Gurman-esque, but I felt like I was missing key elements of the data for which those would have worked best. I also realized a bit too late that trying to zoom in on one "average" library doesn't leave a lot of room for fun visuals. If I had more time, I think I also would have found a way to bring in other data, perhaps from different years, to see if Tennessee has always lacked children's and young adult librarians. It's no excuse, but I am working during the program, and I was positively screenmaxxing trying to get these to work. If
